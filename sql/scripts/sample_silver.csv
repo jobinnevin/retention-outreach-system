@@ -1,0 +1,301 @@
+customer_id,age,gender,marital_status,province,city,occupation,annual_income,credit_score,policy_type,policy_start_date,renewal_date,tenure_years,annual_premium,coverage_amount,deductible,premium_change_pct,payment_frequency,autopay_enrolled,missed_payments_12m,claims_count_3y,last_claim_status,complaints_12m,service_interactions_12m,satisfaction_score,multi_policy_count,preferred_channel,preferred_contact_time,preferred_language,life_event_12m,digital_logins_12m
+C100000,24,Male,Divorced,NS,Halifax,Accountant,75419.0,682,Home,2023-10-03,2027-01-20,3.3,1245.62,1270000.0,1500,6.0,Monthly,No,4,1,Approved,0,2,8.0,1,Mail,Evening,English,None,11
+C100001,67,Female,Married,NS,Sydney,Teacher,71728.0,753,Home,2021-08-21,2026-08-21,5.0,2572.81,575000.0,500,17.7,Annual,No,2,1,Partial,0,1,10.0,1,Phone,Morning,English,Home Purchase,11
+C100002,60,Female,Married,QC,Gatineau,Technician,49974.0,619,Auto,2022-10-22,2026-09-15,3.9,2296.57,1780000.0,500,4.7,Monthly,No,0,0,None,0,5,10.0,1,Email,Morning,French,None,13
+C100003,46,Female,Single,ON,London,Student,101236.0,712,Home,2022-11-19,2027-05-20,4.5,2160.86,1299000.0,2000,3.3,Monthly,Yes,2,2,Approved,0,2,4.0,1,Email,Afternoon,English,Home Purchase,10
+C100004,46,Male,Married,BC,Kelowna,Technician,62616.0,852,Tenant,2020-07-24,2026-08-30,6.1,441.17,61000.0,1000,21.9,Monthly,No,1,2,Approved,0,0,8.0,2,Mail,Evening,English,None,15
+C100005,73,Female,Married,BC,Victoria,Engineer,61236.0,564,Life,2026-01-26,2026-07-27,0.5,2080.51,107000.0,250,6.9,Monthly,Yes,0,0,None,0,3,9.0,1,Email,Morning,English,Job Change,9
+C100006,24,Male,Married,MB,Winnipeg,Retail Associate,66839.0,786,Tenant,2024-10-08,2027-05-15,2.6,430.66,63000.0,1000,2.1,Monthly,Yes,0,0,None,0,1,8.0,3,Text,Evening,English,None,11
+C100007,62,Male,Single,AB,Edmonton,Construction Worker,126023.0,762,Auto,2024-07-31,2027-03-07,2.6,3274.47,122000.0,1000,-7.7,Monthly,No,0,0,None,0,3,7.0,1,Email,Afternoon,English,New Child,9
+C100008,31,Male,Divorced,ON,Kitchener,Technician,94212.0,804,Auto,2009-03-12,2027-04-18,18.1,1408.93,1814000.0,1000,1.3,Annual,No,0,0,None,0,3,9.0,2,Text,Morning,English,Marriage,6
+C100009,24,Female,Single,QC,Laval,Construction Worker,66010.0,685,Life,2023-06-23,2027-05-17,3.9,2038.3,570000.0,500,12.9,Monthly,No,0,0,None,0,1,8.0,2,Email,Morning,French,None,3
+C100010,52,Male,Married,QC,Montreal,Retired,80974.0,639,Home,2026-11-10,2027-04-05,0.4,1948.79,722000.0,500,9.6,Annual,Yes,2,1,Approved,0,3,7.0,1,Text,Afternoon,French,Home Purchase,7
+C100011,80,Female,Widowed,SK,Saskatoon,IT Professional,59340.0,661,Home,2024-02-02,2026-10-15,2.7,2096.42,1478000.0,1000,2.0,Monthly,No,0,0,None,0,2,8.0,1,Email,Morning,English,None,6
+C100012,65,Female,Single,QC,Gatineau,Retail Associate,50130.0,569,Home,2019-07-11,2026-07-10,7.0,1566.9,1161000.0,1000,-5.9,Annual,Yes,0,0,None,0,3,8.0,1,Email,Evening,French,None,6
+C100013,66,Male,Married,ON,Toronto,Accountant,47020.0,668,Home,2026-07-04,2027-05-28,0.9,2041.16,1015000.0,500,3.7,Monthly,Yes,0,1,Denied,1,4,,1,Email,Evening,English,None,6
+C100014,64,Female,Married,QC,Montreal,Driver,76046.0,714,Auto,2022-11-12,2026-07-25,3.7,2132.97,1023000.0,1000,10.5,Monthly,Yes,0,0,None,0,0,5.0,1,Text,Morning,French,Retirement,8
+C100015,68,Female,Widowed,ON,Brampton,Self-Employed,104416.0,645,Auto+Home Bundle,2025-06-30,2026-08-05,1.1,4274.07,928000.0,1500,6.5,Annual,No,1,0,None,0,3,7.0,2,Phone,Evening,English,Retirement,12
+C100016,51,Male,Divorced,ON,Hamilton,Manager,35134.0,615,Auto,2026-10-23,2027-03-18,0.4,3406.19,1638000.0,1000,10.9,Annual,Yes,0,1,Partial,0,2,9.0,1,Phone,Evening,English,None,5
+C100017,27,Female,Married,SK,Saskatoon,Engineer,72727.0,825,Auto+Home Bundle,2026-12-25,2027-05-20,0.4,3700.43,2259000.0,1500,4.1,Monthly,Yes,0,0,None,0,2,6.0,1,Text,Afternoon,English,Marriage,8
+C100018,71,Male,Widowed,BC,Kelowna,Manager,32301.0,825,Auto,2025-02-16,2026-07-12,1.4,2091.16,1879000.0,2000,2.7,Monthly,Yes,0,0,None,0,5,6.0,1,Phone,Morning,English,Divorce,7
+C100019,47,Female,Married,ON,Toronto,Government Employee,73211.0,690,Life,2026-04-21,2027-05-27,1.1,2221.18,229000.0,2000,10.9,Monthly,Yes,0,1,Approved,0,3,8.0,1,Phone,Evening,English,None,13
+C100020,50,Male,Married,ON,Hamilton,Construction Worker,90837.0,697,Home,2003-05-21,2026-08-01,23.2,2127.14,743000.0,250,0.8,Annual,No,0,0,None,0,0,7.0,1,Text,Afternoon,English,None,8
+C100021,42,Male,Married,ON,Kitchener,Sales Representative,44025.0,702,Auto+Home Bundle,2026-07-17,2027-06-10,0.9,4837.34,2500000.0,1000,10.4,Monthly,Yes,0,0,None,0,1,8.0,1,Email,Evening,English,None,4
+C100022,30,Male,Married,AB,Red Deer,Driver,72177.0,618,Auto,2025-11-13,2026-11-13,1.0,3540.98,414000.0,1500,0.5,Monthly,Yes,0,0,None,0,3,7.0,1,Phone,Afternoon,English,New Child,8
+C100023,77,Male,Single,BC,Victoria,Nurse,99667.0,651,Auto+Home Bundle,2023-12-13,2027-02-23,3.2,3165.74,2314000.0,500,4.0,Monthly,Yes,2,0,None,1,1,7.0,1,Text,Morning,English,Divorce,8
+C100024,68,Male,Married,ON,Kitchener,Technician,34345.0,716,Home,2026-03-24,2027-06-05,1.2,1742.09,543000.0,1000,18.8,Monthly,Yes,2,1,Approved,1,2,6.0,1,Phone,Morning,English,None,7
+C100025,59,Female,Single,ON,Mississauga,Manager,123456.0,667,Auto,2026-04-05,2026-07-23,0.3,3045.61,181000.0,2000,15.5,Monthly,Yes,0,3,Partial,1,3,10.0,1,Mail,Afternoon,English,Marriage,8
+C100026,44,Female,Single,AB,Calgary,Manager,48167.0,734,Home,2018-12-14,2026-07-20,7.6,2039.06,1475000.0,1500,18.2,Monthly,Yes,0,0,None,0,1,7.0,1,Email,Morning,English,New Child,10
+C100027,70,Male,Widowed,NS,Halifax,Driver,82422.0,709,Auto+Home Bundle,2015-06-19,2026-08-30,11.2,4585.88,1831000.0,2000,3.8,Monthly,Yes,0,1,Approved,0,2,6.0,2,Phone,Afternoon,English,None,8
+C100028,53,Female,Married,NS,Halifax,Engineer,54678.0,736,Home,2020-10-08,2027-06-21,6.7,2247.22,468000.0,500,10.5,Annual,No,0,0,None,0,4,6.0,3,Mail,Afternoon,English,Home Purchase,9
+C100029,46,Male,Married,ON,Mississauga,Engineer,70255.0,703,Home,2018-12-23,2026-11-16,7.9,1291.23,379000.0,500,11.5,Annual,Yes,0,0,None,0,1,5.0,1,Email,Evening,English,None,9
+C100030,47,Male,Married,QC,Montreal,Student,56667.0,758,Life,2021-12-10,2027-06-10,5.5,2207.47,217000.0,1000,7.6,Monthly,No,0,1,Approved,1,3,8.0,2,Phone,Evening,English,None,10
+C100031,33,Female,Married,ON,Ottawa,Engineer,55265.0,816,Auto,2022-02-10,2027-03-18,5.1,3468.34,672000.0,500,-1.1,Annual,No,0,0,None,0,2,8.0,2,Email,Afternoon,English,New Child,13
+C100032,24,Male,Single,NS,Sydney,Nurse,82788.0,658,Life,2017-09-03,2027-04-10,9.6,1129.89,529000.0,2000,-1.0,Monthly,Yes,0,2,Approved,0,2,7.0,1,Text,Evening,English,None,11
+C100033,53,Female,Married,QC,Quebec City,Teacher,52545.0,578,Auto,2024-01-19,2027-02-24,3.1,1253.99,1695000.0,1000,-4.1,Monthly,Yes,2,0,None,0,1,7.0,1,Text,Evening,French,Home Purchase,9
+C100034,74,Male,Widowed,SK,Saskatoon,Manager,73350.0,674,Auto,2022-01-05,2026-09-17,4.7,3159.25,695000.0,2000,-8.0,Monthly,No,0,3,Approved,0,3,7.0,2,Email,Evening,English,None,12
+C100035,23,Male,Single,QC,Gatineau,Accountant,35474.0,782,Auto+Home Bundle,2025-12-11,2027-05-06,1.4,3643.52,1848000.0,1000,10.2,Annual,Yes,2,2,Approved,0,3,10.0,2,Email,Afternoon,French,Retirement,9
+C100036,73,Female,Single,ON,Mississauga,Construction Worker,76291.0,709,Home,2024-08-26,2027-06-14,2.8,1700.39,994000.0,250,3.1,Monthly,Yes,0,3,Approved,0,2,5.0,2,Text,Afternoon,English,None,9
+C100037,71,Male,Married,ON,Toronto,Retired,56700.0,716,Tenant,2024-09-02,2026-09-02,2.0,577.05,97000.0,2000,5.7,Annual,No,2,1,Approved,0,6,8.0,1,Email,Morning,English,None,18
+C100038,36,Male,Married,NB,Moncton,Driver,99574.0,722,Home,2026-06-29,2026-12-28,0.5,1748.01,1173000.0,1000,8.1,Monthly,No,1,0,None,0,1,7.0,1,Email,Evening,English,None,9
+C100039,29,Female,Married,SK,Regina,Student,81172.0,761,Tenant,2021-07-22,2027-05-10,5.8,507.22,26000.0,500,1.4,Annual,Yes,0,4,Approved,0,3,5.0,2,Email,Evening,French,New Child,9
+C100040,29,Female,Married,QC,Gatineau,Engineer,48384.0,676,Home,2023-07-08,2026-11-30,3.4,1849.07,397000.0,500,11.5,Monthly,Yes,2,0,None,0,4,8.0,1,Text,Evening,French,Divorce,10
+C100041,66,Female,Divorced,ON,Hamilton,Teacher,73109.0,695,Auto,2023-05-18,2026-09-04,3.3,1251.46,126000.0,1000,9.5,Monthly,No,0,3,Approved,0,0,8.0,1,Email,Evening,English,None,6
+C100042,63,Female,Single,ON,Ottawa,Student,50191.0,677,Home,2024-07-21,2026-07-21,2.0,1395.25,1433000.0,2000,6.5,Annual,Yes,2,0,None,0,4,8.0,1,Mail,Evening,English,None,9
+C100043,41,Male,Single,ON,Mississauga,Retired,39518.0,741,Auto,2026-12-12,2027-06-12,0.5,3190.96,516000.0,1000,-4.7,Monthly,Yes,0,0,None,0,3,10.0,1,Text,Evening,English,None,10
+C100044,23,Female,Married,ON,Toronto,Government Employee,45849.0,860,Home,2019-07-28,2026-11-14,7.3,2574.15,1043000.0,1000,14.4,Annual,Yes,0,2,Partial,0,0,10.0,1,Phone,Afternoon,English,None,8
+C100045,80,Female,Married,QC,Montreal,IT Professional,50225.0,708,Auto+Home Bundle,2022-04-28,2026-10-27,4.5,2786.76,1201000.0,1000,22.0,Monthly,Yes,1,1,Approved,0,4,8.0,1,Email,Morning,French,Home Purchase,5
+C100046,47,Female,Single,BC,Victoria,Driver,33436.0,737,Auto,2026-07-25,2027-04-06,0.7,1372.16,230000.0,500,0.3,Monthly,Yes,2,2,Approved,2,2,8.0,1,Email,Evening,English,None,9
+C100047,75,Male,Married,ON,London,Retired,47380.0,706,Home,2025-10-21,2027-01-02,1.2,1125.15,1238000.0,1000,13.8,Monthly,Yes,3,0,None,2,1,6.0,2,Email,Evening,English,Divorce,11
+C100048,61,Female,Married,NB,Moncton,Accountant,227663.0,707,Home,2020-09-25,2026-08-19,5.9,1178.48,300000.0,1000,7.1,Monthly,Yes,0,0,None,0,4,4.0,2,Phone,Afternoon,English,None,10
+C100049,68,Female,Married,QC,Montreal,Construction Worker,66493.0,742,Auto,2020-01-10,2026-10-28,6.8,3387.18,275000.0,1000,10.9,Monthly,Yes,0,0,None,0,1,9.0,1,Email,Evening,English,Job Change,8
+C100050,66,Female,Married,QC,Gatineau,Retired,70517.0,623,Auto,2023-06-16,2026-11-08,3.4,1286.0,1469000.0,250,11.7,Annual,No,0,0,None,0,4,4.0,3,Text,Afternoon,French,New Child,11
+C100051,31,Female,Single,QC,Laval,Accountant,60599.0,559,Auto+Home Bundle,2025-05-10,2027-04-03,1.9,2800.48,1860000.0,1500,5.4,Monthly,No,2,1,Approved,0,2,8.0,1,Email,Afternoon,French,None,7
+C100052,41,Male,Married,AB,Calgary,Sales Representative,108310.0,607,Auto,2019-04-18,2026-10-17,7.5,1836.88,1342000.0,500,9.2,Monthly,No,0,0,None,0,2,5.0,1,Mail,Afternoon,English,None,7
+C100053,48,Female,Divorced,NS,Sydney,Construction Worker,64186.0,634,Home,2023-09-14,2027-02-06,3.4,2090.72,1487000.0,500,-8.0,Monthly,No,1,0,None,1,0,8.0,1,Text,Morning,English,None,17
+C100054,50,Female,Married,AB,Edmonton,IT Professional,50556.0,732,Auto,2022-04-09,2026-11-14,4.6,3345.12,1597000.0,1000,4.9,Monthly,No,0,0,None,0,3,9.0,3,Text,Evening,English,Home Purchase,7
+C100055,21,Female,Married,QC,Quebec City,Construction Worker,61493.0,620,Auto+Home Bundle,2019-07-29,2026-11-15,7.3,3372.03,675000.0,500,17.0,Monthly,Yes,0,0,None,0,1,6.0,1,Phone,Morning,French,None,11
+C100056,53,Female,Married,NS,Sydney,Nurse,106777.0,751,Life,2024-11-10,2027-01-22,2.2,731.9,553000.0,2000,6.3,Monthly,Yes,1,1,Approved,0,1,7.0,1,Email,Evening,French,Divorce,12
+C100057,28,Male,Married,QC,Montreal,Driver,93993.0,644,Auto,2023-12-14,2027-04-02,3.3,1782.71,1302000.0,1500,20.3,Monthly,Yes,0,0,None,0,6,8.0,1,Phone,Evening,English,None,9
+C100058,65,Male,Divorced,ON,London,Retired,26802.0,716,Life,2025-10-06,2026-10-06,1.0,1941.7,715000.0,1000,-1.6,Annual,Yes,2,0,None,0,4,4.0,2,Phone,Afternoon,English,Home Purchase,13
+C100059,62,Male,Married,ON,Ottawa,Technician,63984.0,649,Auto,2012-08-06,2027-04-19,14.7,1787.85,1122000.0,250,-1.6,Monthly,Yes,1,3,Approved,0,4,6.0,1,Email,Morning,English,Home Purchase,5
+C100060,77,Female,Single,NS,Sydney,Driver,81913.0,771,Auto,2024-11-29,2027-05-31,2.5,3379.79,1965000.0,2000,12.8,Monthly,Yes,0,1,Partial,2,2,9.0,1,Email,Afternoon,English,None,10
+C100061,65,Female,Single,NS,Halifax,Government Employee,66403.0,783,Home,2025-11-11,2026-12-17,1.1,1442.99,1265000.0,1000,4.0,Monthly,Yes,1,0,None,0,0,7.0,1,Phone,Morning,English,None,13
+C100062,42,Female,Single,SK,Saskatoon,Sales Representative,226135.0,742,Auto+Home Bundle,2026-07-27,2026-11-13,0.3,2769.62,2223000.0,500,4.5,Monthly,Yes,0,0,None,0,2,9.0,1,Phone,Morning,English,Job Change,7
+C100063,60,Female,Married,QC,Montreal,Retired,112582.0,748,Auto,2025-04-28,2026-12-03,1.6,1640.73,1654000.0,1500,10.2,Annual,Yes,0,0,None,0,0,9.0,1,Phone,Evening,French,Divorce,8
+C100064,44,Male,Married,BC,Kelowna,Construction Worker,90876.0,715,Home,2011-11-24,2027-03-13,15.3,1975.67,566000.0,500,-4.1,Monthly,Yes,1,1,Approved,0,1,8.0,1,Text,Afternoon,English,Home Purchase,11
+C100065,39,Female,Single,AB,Calgary,IT Professional,35067.0,777,Auto,2024-09-04,2026-10-11,2.1,2320.53,1337000.0,1000,7.3,Monthly,No,2,0,None,0,1,2.0,1,Email,Morning,English,Marriage,9
+C100066,76,Male,Married,QC,Montreal,Government Employee,34292.0,677,Home,2021-12-30,2027-05-25,5.4,1613.05,531000.0,1000,0.8,Annual,Yes,0,0,None,0,3,7.0,1,Phone,Evening,French,New Child,9
+C100067,42,Male,Married,QC,Gatineau,Self-Employed,46271.0,642,Auto+Home Bundle,2024-04-10,2027-05-17,3.1,3815.11,1855000.0,1000,-2.6,Monthly,No,0,1,Approved,0,1,10.0,1,Phone,Afternoon,French,None,11
+C100068,23,Male,Single,MB,Winnipeg,Sales Representative,36730.0,532,Home,2025-10-02,2026-08-26,0.9,2505.5,1094000.0,500,13.1,Annual,No,0,2,Approved,0,3,7.0,1,Mail,Afternoon,English,None,8
+C100069,48,Male,Single,ON,Toronto,Teacher,72640.0,713,Auto,2021-04-05,2026-08-29,5.4,1259.44,583000.0,500,11.2,Monthly,No,0,0,None,3,2,3.0,2,Email,Evening,English,Marriage,8
+C100070,69,Female,Single,QC,Laval,Self-Employed,45156.0,720,Auto+Home Bundle,2018-09-01,2026-10-07,8.1,4698.3,1107000.0,250,17.6,Monthly,Yes,0,0,None,0,3,6.0,1,Email,Evening,English,None,14
+C100071,30,Female,Married,ON,Brampton,Retired,29899.0,691,Auto,2021-02-11,2027-03-20,6.1,3095.24,1505000.0,2000,6.9,Annual,No,0,0,None,0,3,6.0,2,Phone,Afternoon,English,None,6
+C100072,48,Female,Married,QC,Laval,Sales Representative,101174.0,667,Auto,2021-06-20,2027-03-02,5.7,3325.35,266000.0,250,15.2,Monthly,Yes,0,0,None,0,2,5.0,1,Email,Morning,English,None,6
+C100073,27,Male,Married,NS,Halifax,Nurse,67937.0,666,Auto+Home Bundle,2009-08-27,2026-07-21,16.9,5031.88,681000.0,1000,18.8,Annual,Yes,0,0,None,0,3,9.0,3,Text,Afternoon,French,New Child,13
+C100074,62,Female,Single,AB,Edmonton,Accountant,67352.0,685,Home,2026-02-18,2026-08-19,0.5,2324.23,1446000.0,500,10.2,Annual,Yes,0,0,None,0,5,6.0,1,Phone,Evening,English,None,16
+C100075,48,Female,Divorced,QC,Quebec City,IT Professional,46880.0,750,Auto,2024-10-24,2027-02-11,2.3,1255.65,1539000.0,1500,5.5,Monthly,Yes,0,0,None,0,1,8.0,2,Phone,Afternoon,French,None,8
+C100076,39,Male,Married,BC,Vancouver,Engineer,74621.0,679,Home,2026-08-09,2027-01-02,0.4,1691.38,908000.0,500,14.9,Annual,Yes,0,1,Approved,0,2,3.0,1,Text,Afternoon,English,None,10
+C100077,33,Male,Married,QC,Gatineau,IT Professional,71917.0,810,Auto,2013-10-14,2026-10-14,13.0,3015.17,1599000.0,1500,9.5,Monthly,Yes,0,1,Denied,0,2,6.0,2,Email,Morning,French,None,5
+C100078,54,Female,Married,ON,London,Construction Worker,79108.0,802,Auto,2016-12-06,2027-03-26,10.3,3398.91,724000.0,1000,14.6,Monthly,Yes,2,1,Approved,3,2,6.0,2,Email,Evening,English,None,9
+C100079,61,Male,Single,QC,Montreal,Construction Worker,50602.0,630,Home,2025-12-03,2026-08-15,0.7,2593.59,1132000.0,1500,11.2,Monthly,Yes,0,0,None,0,3,7.0,1,Email,Evening,French,None,11
+C100080,78,Male,Married,ON,Kitchener,Retired,51737.0,797,Auto,2022-05-21,2026-08-02,4.2,2081.72,1424000.0,250,10.8,Monthly,Yes,0,2,Approved,0,1,9.0,2,Email,Morning,English,Retirement,9
+C100081,46,Male,Married,QC,Gatineau,Teacher,47395.0,768,Auto+Home Bundle,2014-10-16,2026-08-03,11.8,2879.21,2066000.0,250,2.2,Annual,Yes,0,0,None,0,2,7.0,1,Text,Afternoon,French,Job Change,14
+C100082,29,Female,Single,QC,Laval,Technician,41625.0,739,Auto,2023-08-05,2026-09-10,3.1,1281.47,914000.0,500,2.4,Monthly,No,3,0,None,0,1,8.0,1,Email,Evening,French,Home Purchase,12
+C100083,71,Male,Single,BC,Vancouver,IT Professional,152210.0,618,Home,2019-08-25,2027-06-12,7.8,2407.8,1433000.0,1000,2.3,Monthly,Yes,0,1,Approved,0,3,5.0,3,Phone,Afternoon,English,None,7
+C100084,58,Male,Married,ON,Ottawa,IT Professional,24000.0,722,Tenant,2024-04-06,2027-01-23,2.8,444.37,42000.0,2000,-4.0,Monthly,Yes,0,0,None,0,3,6.0,2,Email,Evening,English,None,12
+C100085,63,Female,Married,QC,Montreal,Accountant,35672.0,818,Auto,2017-05-02,2027-06-08,10.1,2547.81,787000.0,1000,1.5,Annual,No,0,0,None,0,2,5.0,1,Mail,Evening,French,None,6
+C100086,25,Male,Widowed,QC,Laval,Retired,64979.0,658,Auto,2025-06-17,2027-02-27,1.7,1780.8,612000.0,1000,-1.3,Annual,Yes,0,0,None,0,2,7.0,2,Text,Afternoon,French,None,10
+C100087,38,Male,Married,ON,Toronto,Retired,41848.0,765,Auto,2024-08-15,2026-09-21,2.1,3192.75,1845000.0,500,9.4,Monthly,No,0,1,Approved,0,3,5.0,1,Email,Evening,English,None,8
+C100088,67,Male,Divorced,BC,Kelowna,Sales Representative,64972.0,684,Home,2025-04-13,2027-06-25,2.2,1720.87,861000.0,1000,-3.1,Monthly,Yes,0,2,Approved,0,1,10.0,2,Email,Afternoon,English,None,10
+C100089,71,Male,Single,BC,Victoria,Manager,31822.0,619,Auto+Home Bundle,2011-11-30,2026-10-24,14.9,3808.66,780000.0,1000,10.8,Monthly,No,0,0,None,1,1,9.0,2,Email,Evening,English,None,7
+C100090,46,Female,Married,QC,Gatineau,Accountant,24743.0,704,Auto,2023-03-16,2026-07-03,3.3,2779.29,1033000.0,500,8.7,Annual,No,0,1,Denied,0,1,5.0,1,Email,Afternoon,French,None,12
+C100091,69,Female,Married,ON,Mississauga,Technician,51794.0,743,Home,2021-03-15,2026-07-02,5.3,2037.02,679000.0,500,4.7,Annual,No,1,0,None,1,2,8.0,1,Email,Afternoon,French,None,10
+C100092,72,Female,Divorced,AB,Calgary,Driver,102335.0,720,Tenant,2019-11-30,2027-01-05,7.1,292.08,46000.0,1000,-1.4,Annual,Yes,0,0,None,0,1,7.0,2,Phone,Morning,English,New Child,8
+C100093,43,Male,Married,BC,Surrey,Retail Associate,70271.0,720,Tenant,2026-04-03,2026-07-21,0.3,242.27,41000.0,1000,-8.0,Monthly,Yes,0,0,None,0,3,,3,Email,Morning,English,Job Change,4
+C100094,75,Male,Married,BC,Victoria,Technician,90880.0,746,Home,2017-05-08,2027-06-14,10.1,1264.9,566000.0,1500,-1.0,Monthly,No,0,1,Partial,0,2,7.0,2,Phone,Afternoon,English,None,10
+C100095,37,Male,Single,NS,Sydney,Sales Representative,113358.0,739,Auto,2023-08-04,2027-03-10,3.6,1222.35,1878000.0,500,9.7,Annual,No,0,0,None,0,2,9.0,1,Phone,Afternoon,English,None,9
+C100096,34,Male,Married,AB,Red Deer,Technician,,677,Life,2025-10-29,2027-01-10,1.2,1217.86,304000.0,250,6.9,Monthly,Yes,0,1,Approved,2,5,6.0,1,Mail,Afternoon,English,None,11
+C100097,61,Female,Married,MB,Brandon,Retired,43190.0,655,Home,2027-02-10,2027-05-30,0.3,1750.68,406000.0,250,13.1,Annual,No,2,1,Approved,0,0,7.0,1,Phone,Evening,English,None,12
+C100098,59,Male,Single,AB,Calgary,Retired,51880.0,639,Home,2026-03-11,2027-02-02,0.9,1886.64,692000.0,500,5.0,Annual,No,0,0,None,0,2,10.0,1,Email,Evening,English,New Child,4
+C100099,27,Female,Married,BC,Victoria,Self-Employed,38085.0,717,Auto,2024-06-11,2026-08-23,2.2,3415.4,1843000.0,1500,-5.6,Monthly,Yes,0,0,None,2,2,8.0,1,Text,Evening,English,Retirement,9
+C100100,71,Female,Married,AB,Red Deer,Retired,53572.0,648,Home,2008-06-07,2026-10-31,18.4,1529.82,1261000.0,250,8.0,Monthly,No,0,1,Approved,0,1,7.0,3,Mail,Evening,English,None,5
+C100101,31,Male,Married,NS,Sydney,Nurse,44807.0,751,Home,2016-10-18,2026-11-24,10.1,2202.33,386000.0,250,-4.8,Monthly,Yes,0,1,Partial,1,1,9.0,1,Email,Evening,English,None,13
+C100102,69,Male,Married,QC,Montreal,Engineer,71685.0,615,Home,2019-11-18,2027-04-12,7.4,1107.57,630000.0,250,3.7,Monthly,Yes,0,0,None,0,1,6.0,1,Email,Evening,English,None,6
+C100103,19,Female,Married,QC,Montreal,Manager,39386.0,677,Home,2026-02-04,2027-06-30,1.4,1856.4,902000.0,250,9.3,Monthly,Yes,0,2,Denied,0,5,10.0,1,Text,Afternoon,English,Job Change,6
+C100104,69,Female,Single,NS,Sydney,Retail Associate,51308.0,735,Auto,2025-12-15,2027-05-10,1.4,3425.69,1645000.0,250,1.0,Monthly,No,0,0,None,0,0,7.0,2,Email,Morning,English,Home Purchase,16
+C100105,68,Female,Married,NS,Sydney,Accountant,100870.0,699,Home,2023-06-23,2026-10-10,3.3,2428.18,425000.0,1500,14.5,Monthly,Yes,0,1,Partial,0,4,10.0,1,Phone,Morning,English,None,11
+C100106,68,Female,Divorced,MB,Brandon,Construction Worker,100172.0,583,Auto,2022-07-07,2027-04-25,4.8,2814.58,1512000.0,2000,10.7,Annual,No,0,0,None,0,1,6.0,1,Phone,Evening,English,Home Purchase,6
+C100107,60,Male,Single,QC,Quebec City,Teacher,81435.0,663,Life,2020-09-14,2027-04-21,6.6,2468.85,838000.0,2000,-2.1,Monthly,No,0,0,None,0,1,7.0,2,Phone,Afternoon,French,Job Change,7
+C100108,48,Male,Divorced,BC,Kelowna,Accountant,36791.0,840,Home,2021-10-12,2026-07-31,4.8,1282.18,712000.0,500,3.2,Monthly,Yes,0,2,Approved,0,2,7.0,2,Text,Afternoon,English,Home Purchase,12
+C100109,63,Male,Divorced,QC,Laval,Government Employee,258923.0,636,Life,2025-02-08,2026-07-04,1.4,934.16,704000.0,1500,10.1,Monthly,No,0,0,None,0,4,7.0,1,Mail,Morning,English,Home Purchase,7
+C100110,36,Female,Single,ON,Hamilton,Student,52512.0,781,Auto+Home Bundle,2024-03-10,2027-05-22,3.2,3602.49,1951000.0,1500,-8.0,Monthly,Yes,0,0,None,0,3,8.0,2,Email,Evening,English,None,5
+C100111,68,Female,Single,ON,Toronto,Self-Employed,73773.0,724,Auto,2025-11-30,2026-11-30,1.0,1858.22,1945000.0,500,5.6,Monthly,Yes,0,0,None,0,3,5.0,1,Text,Afternoon,English,Job Change,7
+C100112,54,Male,Married,ON,Brampton,Engineer,53279.0,743,Home,2019-08-04,2027-04-16,7.7,2416.79,485000.0,1500,-7.6,Monthly,No,0,0,None,0,3,8.0,1,Email,Morning,English,Job Change,6
+C100113,47,Male,Widowed,ON,Kitchener,Self-Employed,59010.0,660,Auto,2024-11-02,2026-07-15,1.7,3394.22,777000.0,500,-5.0,Monthly,No,0,1,Approved,0,3,5.0,2,Phone,Morning,English,Divorce,8
+C100114,50,Male,Single,QC,Gatineau,Self-Employed,24000.0,723,Auto+Home Bundle,2025-06-12,2026-07-18,1.1,4576.68,460000.0,250,18.1,Annual,Yes,0,3,Approved,0,1,7.0,1,Phone,Evening,French,None,14
+C100115,54,Female,Divorced,SK,Regina,Manager,77418.0,715,Home,2024-06-28,2027-06-28,3.0,1621.01,876000.0,500,-3.0,Monthly,Yes,0,2,Approved,0,1,9.0,2,Phone,Afternoon,English,None,11
+C100116,21,Male,Single,QC,Montreal,Retired,39342.0,754,Home,2026-04-19,2026-10-18,0.5,1500.65,1470000.0,500,5.9,Monthly,No,2,1,Approved,0,2,7.0,2,Phone,Afternoon,English,Home Purchase,9
+C100117,27,Male,Married,BC,Surrey,Retail Associate,114089.0,633,Home,2025-06-20,2026-10-07,1.3,1113.23,399000.0,1000,1.1,Monthly,No,1,2,Approved,1,1,8.0,1,Email,Morning,English,None,11
+C100118,34,Female,Divorced,QC,Gatineau,Engineer,77493.0,586,Auto,2022-06-01,2027-06-01,5.0,3191.84,1771000.0,500,6.8,Monthly,Yes,0,0,None,0,6,6.0,1,Phone,Evening,French,None,9
+C100119,26,Male,Married,ON,Toronto,Government Employee,129159.0,729,Life,2025-08-11,2026-07-05,0.9,810.04,364000.0,500,8.7,Monthly,Yes,0,0,None,0,1,9.0,1,Email,Morning,English,Marriage,6
+C100120,46,Female,Married,QC,Quebec City,Sales Representative,48853.0,585,Auto,2025-05-15,2026-11-13,1.5,2838.15,570000.0,500,7.7,Monthly,Yes,0,3,Partial,0,3,8.0,1,Email,Evening,French,None,8
+C100121,61,Female,Single,ON,Mississauga,Technician,42521.0,599,Auto,2025-09-14,2026-11-26,1.2,2710.8,634000.0,1000,13.7,Monthly,Yes,0,0,None,0,4,8.0,1,Phone,Afternoon,English,New Child,8
+C100122,60,Male,Married,ON,Kitchener,Retail Associate,100563.0,692,Auto+Home Bundle,2025-11-23,2026-12-29,1.1,3437.42,1738000.0,1000,7.6,Monthly,No,0,0,None,0,0,7.0,1,Phone,Morning,English,None,12
+C100123,48,Female,Widowed,ON,London,Government Employee,80087.0,828,Life,2024-11-12,2026-08-31,1.8,1192.39,356000.0,500,9.6,Monthly,Yes,0,2,Approved,0,4,4.0,1,Email,Morning,English,Marriage,15
+C100124,72,Female,Single,ON,Mississauga,Engineer,87691.0,650,Home,2013-02-22,2026-09-29,13.6,1355.59,807000.0,1000,15.3,Monthly,No,0,0,None,0,2,9.0,1,Phone,Morning,English,None,6
+C100125,54,Male,Married,QC,Montreal,Retail Associate,59707.0,747,Auto+Home Bundle,2025-01-07,2027-04-27,2.3,3594.65,956000.0,1000,6.3,Annual,Yes,4,0,None,0,0,5.0,2,Email,Evening,French,Retirement,12
+C100126,23,Male,Divorced,AB,Red Deer,Self-Employed,39112.0,584,Tenant,2024-06-13,2026-12-13,2.5,504.25,80000.0,500,2.8,Annual,Yes,1,0,None,0,3,5.0,2,Email,Evening,English,None,4
+C100127,67,Male,Married,AB,Edmonton,Manager,42966.0,772,Home,2022-02-17,2026-09-24,4.6,1347.53,1321000.0,1000,9.2,Monthly,No,0,0,None,0,1,6.0,1,Email,Afternoon,English,None,8
+C100128,55,Female,Widowed,ON,Mississauga,Construction Worker,94016.0,740,Tenant,2025-05-26,2027-03-14,1.8,397.54,68000.0,250,11.9,Monthly,Yes,0,0,None,0,1,7.0,2,Phone,Evening,English,Retirement,9
+C100129,58,Female,Widowed,ON,Toronto,Construction Worker,84076.0,647,Auto,2026-12-09,2027-03-28,0.3,3284.64,1351000.0,250,2.8,Monthly,Yes,0,0,None,0,2,10.0,1,Email,Evening,English,None,10
+C100130,54,Male,Single,ON,Hamilton,Technician,84583.0,597,Home,2023-07-26,2027-04-07,3.7,1522.91,864000.0,250,8.1,Annual,No,0,0,None,0,1,8.0,1,Email,Evening,English,None,7
+C100131,53,Female,Married,ON,London,Government Employee,53698.0,687,Auto,2016-01-06,2027-03-19,11.2,1421.1,1262000.0,500,19.1,Monthly,Yes,0,0,None,0,2,8.0,1,Email,Afternoon,English,None,7
+C100132,24,Male,Married,BC,Kelowna,Driver,37431.0,672,Life,2018-11-28,2027-03-17,8.3,2227.33,461000.0,1000,5.9,Annual,Yes,0,0,None,0,3,10.0,1,Email,Evening,English,None,9
+C100133,54,Male,Married,ON,Toronto,Engineer,50984.0,697,Home,2021-09-01,2026-11-13,5.2,2427.81,1192000.0,500,8.7,Monthly,Yes,0,0,None,0,1,7.0,2,Mail,Afternoon,English,None,12
+C100134,69,Female,Married,QC,Laval,Self-Employed,46076.0,692,Home,2024-01-11,2026-09-23,2.7,1255.64,738000.0,500,3.1,Monthly,Yes,0,0,None,0,1,9.0,2,Email,Afternoon,English,Marriage,7
+C100135,38,Male,Single,QC,Laval,Retired,136770.0,620,Home,2024-09-18,2027-02-11,2.4,1736.21,543000.0,250,6.7,Monthly,No,1,0,None,0,3,6.0,1,Email,Morning,English,None,8
+C100136,28,Female,Married,ON,Hamilton,Engineer,79366.0,629,Home,2026-06-01,2026-10-25,0.4,2464.91,509000.0,1500,3.1,Monthly,Yes,0,1,Approved,0,2,7.0,2,Phone,Evening,English,Home Purchase,9
+C100137,20,Female,Married,NS,Halifax,Student,50541.0,670,Auto,2025-10-04,2026-11-09,1.1,2403.04,337000.0,2000,-3.3,Monthly,No,2,0,None,0,2,10.0,2,Email,Afternoon,English,None,6
+C100138,40,Female,Married,AB,Edmonton,Technician,171081.0,604,Auto,2026-01-09,2027-01-09,1.0,2395.38,867000.0,500,10.6,Annual,Yes,0,0,None,0,4,7.0,3,Phone,Morning,English,New Child,8
+C100139,46,Male,Married,QC,Gatineau,Retail Associate,79239.0,545,Tenant,2019-01-03,2027-02-08,8.1,566.62,37000.0,1000,6.8,Annual,No,1,1,Approved,0,1,5.0,1,Email,Afternoon,French,New Child,13
+C100140,80,Male,Married,AB,Red Deer,Manager,62294.0,775,Home,2008-04-02,2026-10-02,18.5,1575.21,439000.0,1000,0.9,Monthly,No,0,0,None,0,1,6.0,3,Email,Morning,English,New Child,13
+C100141,32,Male,Married,ON,Brampton,Self-Employed,56638.0,646,Auto,2025-08-01,2026-11-18,1.3,2679.75,708000.0,500,20.5,Monthly,Yes,1,1,Approved,0,3,4.0,2,Email,Afternoon,English,None,16
+C100142,36,Female,Married,BC,Surrey,Retail Associate,100687.0,766,Tenant,2022-03-20,2027-02-11,4.9,546.98,96000.0,2000,12.3,Monthly,Yes,0,1,Approved,2,1,9.0,1,Email,Morning,English,None,8
+C100143,44,Male,Divorced,ON,Ottawa,Sales Representative,51025.0,782,Auto,2021-06-30,2026-10-17,5.3,2286.73,1673000.0,1500,11.2,Monthly,No,0,2,Denied,0,3,6.0,2,Email,Morning,English,New Child,14
+C100144,81,Male,Married,QC,Quebec City,Construction Worker,110586.0,672,Home,2024-01-31,2027-01-30,3.0,1867.31,900000.0,1500,3.8,Monthly,No,1,0,None,1,2,9.0,2,Email,Evening,French,New Child,3
+C100145,72,Male,Divorced,BC,Victoria,Engineer,54857.0,770,Auto,2023-07-07,2026-10-24,3.3,1139.88,83000.0,500,13.2,Annual,No,1,1,Approved,0,1,6.0,1,Email,Morning,French,Retirement,10
+C100146,21,Female,Married,AB,Red Deer,Government Employee,84610.0,654,Auto+Home Bundle,2025-11-02,2026-12-08,1.1,4161.97,2033000.0,500,3.5,Monthly,Yes,1,1,Approved,0,2,9.0,1,Email,Afternoon,French,None,6
+C100147,33,Female,Divorced,NS,Sydney,Student,99123.0,870,Auto,2026-12-30,2027-04-18,0.3,1348.72,1421000.0,500,0.4,Monthly,No,0,1,Approved,3,0,4.0,1,Phone,Morning,English,None,16
+C100148,70,Female,Single,NB,Moncton,Teacher,46841.0,743,Auto,2014-02-15,2027-03-23,13.1,2687.45,981000.0,1000,5.7,Monthly,No,0,0,None,0,6,8.0,2,Email,Evening,English,Home Purchase,8
+C100149,22,Male,Married,AB,Red Deer,Construction Worker,81390.0,675,Auto,2021-03-02,2027-04-08,6.1,3538.32,1571000.0,500,0.6,Monthly,No,1,1,Denied,0,2,4.0,1,Email,Evening,English,New Child,10
+C100150,72,Female,Single,ON,Ottawa,Engineer,116560.0,747,Auto,2020-04-08,2026-12-20,6.7,1897.33,521000.0,1000,9.9,Monthly,Yes,0,0,None,1,6,5.0,1,Phone,Afternoon,English,Home Purchase,9
+C100151,36,Female,Married,AB,Edmonton,Sales Representative,41661.0,678,Auto,2026-08-29,2026-12-16,0.3,2902.46,1728000.0,250,11.0,Monthly,Yes,0,1,Approved,0,2,6.0,1,Email,Afternoon,English,Job Change,6
+C100152,76,Male,Divorced,QC,Montreal,Retail Associate,68108.0,679,Auto,2020-09-07,2026-09-07,6.0,1968.26,1444000.0,1500,-8.0,Monthly,No,1,0,None,0,2,9.0,1,Mail,Afternoon,French,Divorce,9
+C100153,37,Male,Married,ON,Toronto,IT Professional,133333.0,540,Auto,2023-07-17,2026-11-03,3.3,2082.24,1252000.0,250,12.9,Monthly,No,0,0,None,0,3,7.0,2,Text,Morning,English,Job Change,6
+C100154,46,Female,Married,ON,Mississauga,IT Professional,81330.0,501,Life,2026-06-02,2026-10-26,0.4,1778.05,217000.0,1000,3.5,Monthly,Yes,1,1,Partial,0,3,7.0,1,Text,Morning,English,Marriage,7
+C100155,60,Male,Married,BC,Victoria,Retail Associate,67338.0,837,Auto,2023-02-27,2027-05-11,4.2,3059.61,563000.0,500,-8.0,Monthly,No,0,1,Approved,0,0,8.0,1,Email,Afternoon,English,None,5
+C100156,26,Male,Single,QC,Gatineau,Retired,98989.0,593,Home,2025-06-24,2027-06-24,2.0,1897.37,1466000.0,1000,18.4,Monthly,No,0,2,Approved,0,0,8.0,1,Phone,Afternoon,French,Marriage,11
+C100157,54,Female,Divorced,MB,Brandon,Driver,144838.0,727,Tenant,2013-06-23,2027-05-17,13.9,429.23,92000.0,500,6.2,Monthly,Yes,0,0,None,1,1,9.0,2,Email,Morning,English,None,14
+C100158,50,Male,Single,NS,Sydney,Construction Worker,90850.0,602,Auto,2025-12-25,2026-12-25,1.0,1285.94,1285000.0,2000,7.9,Monthly,Yes,0,0,None,0,3,8.0,3,Email,Evening,English,Divorce,6
+C100159,68,Female,Single,MB,Brandon,Student,141707.0,714,Auto,2023-03-14,2026-08-06,3.4,3462.82,582000.0,500,-1.6,Monthly,No,0,0,None,0,2,6.0,1,Phone,Evening,English,None,8
+C100160,81,Female,Single,QC,Montreal,Retail Associate,66014.0,581,Home,2026-05-31,2027-03-19,0.8,1083.63,376000.0,1000,5.1,Monthly,No,2,0,None,0,2,4.0,1,Text,Morning,French,Marriage,12
+C100161,60,Male,Divorced,MB,Winnipeg,Government Employee,114578.0,704,Auto,2025-09-12,2027-02-05,1.4,1955.13,1496000.0,500,-2.6,Monthly,Yes,0,2,Approved,0,1,10.0,1,Email,Afternoon,English,Job Change,8
+C100162,44,Female,Married,QC,Montreal,Retail Associate,48861.0,683,Life,2019-07-21,2027-06-14,7.9,1505.03,115000.0,1500,2.8,Monthly,Yes,0,0,None,0,2,5.0,2,Phone,Evening,French,None,5
+C100163,44,Male,Married,ON,Kitchener,Retail Associate,154796.0,703,Home,2026-12-27,2027-05-22,0.4,1519.74,1076000.0,1500,20.6,Annual,Yes,0,0,None,0,1,9.0,2,Phone,Evening,English,None,6
+C100164,45,Male,Married,ON,Ottawa,Driver,71548.0,592,Auto,2024-03-22,2026-09-21,2.5,2405.88,778000.0,1000,-2.0,Monthly,Yes,0,0,None,0,1,4.0,1,Phone,Morning,English,Marriage,8
+C100165,70,Female,Single,ON,Kitchener,Driver,72059.0,677,Auto,2026-11-02,2027-02-19,0.3,3053.31,700000.0,500,10.8,Monthly,Yes,0,1,Approved,0,4,3.0,2,Text,Morning,English,None,8
+C100166,39,Male,Single,ON,Mississauga,Accountant,128103.0,700,Auto,2026-07-22,2026-11-08,0.3,1334.26,1539000.0,1500,19.2,Monthly,Yes,0,0,None,0,4,8.0,1,Email,Evening,English,None,7
+C100167,29,Female,Single,AB,Edmonton,Government Employee,71759.0,665,Auto+Home Bundle,2021-08-07,2027-03-14,5.6,2706.08,1018000.0,1000,6.0,Monthly,No,0,0,None,0,3,9.0,1,Text,Afternoon,English,Divorce,7
+C100168,40,Male,Married,ON,London,Retired,62650.0,672,Home,2026-09-21,2027-02-14,0.4,2378.63,1066000.0,500,14.4,Annual,No,0,0,None,0,4,4.0,2,Text,Evening,English,Home Purchase,8
+C100169,20,Female,Single,MB,Brandon,Government Employee,52961.0,657,Auto,2025-10-12,2027-03-07,1.4,2240.81,299000.0,2000,-1.6,Monthly,Yes,0,3,Partial,0,3,4.0,2,Text,Afternoon,English,None,7
+C100170,25,Female,Married,ON,Mississauga,Accountant,81176.0,661,Auto,2022-02-13,2026-08-14,4.5,3589.83,1860000.0,1000,13.5,Annual,No,2,0,None,0,3,2.0,1,Text,Morning,English,Divorce,8
+C100171,24,Female,Married,NB,Saint John,Construction Worker,61165.0,759,Home,2023-05-11,2027-06-16,4.1,2084.76,724000.0,500,7.8,Annual,Yes,1,0,None,0,1,6.0,3,Phone,Evening,English,None,12
+C100172,67,Male,Married,QC,Gatineau,Construction Worker,59828.0,812,Auto+Home Bundle,2016-11-21,2026-09-09,9.8,4241.37,1826000.0,1500,2.0,Annual,No,4,0,None,1,2,7.0,2,Email,Evening,English,None,12
+C100173,64,Male,Divorced,ON,Brampton,Manager,106999.0,702,Auto+Home Bundle,2018-05-15,2027-03-03,8.8,4819.97,1958000.0,250,-1.1,Monthly,Yes,0,0,None,0,0,7.0,1,Phone,Morning,English,None,8
+C100174,62,Female,Single,ON,Brampton,Accountant,97590.0,595,Auto+Home Bundle,2024-11-22,2027-05-24,2.5,2877.5,1773000.0,1500,5.2,Annual,Yes,0,0,None,0,3,5.0,2,Email,Morning,English,None,7
+C100175,48,Female,Married,ON,Mississauga,Government Employee,42546.0,688,Life,2024-01-30,2027-03-07,3.1,1123.44,456000.0,500,5.7,Monthly,Yes,0,1,Approved,0,4,9.0,1,Email,Evening,English,None,10
+C100176,64,Female,Single,ON,Hamilton,Construction Worker,42184.0,652,Auto+Home Bundle,2008-05-18,2026-07-30,18.2,4269.48,518000.0,500,1.1,Monthly,No,0,1,Approved,0,1,6.0,2,Phone,Afternoon,English,Divorce,17
+C100177,29,Male,Divorced,AB,Red Deer,Construction Worker,27998.0,598,Home,2025-01-23,2026-11-11,1.8,1115.65,480000.0,1500,-1.1,Annual,Yes,0,0,None,0,3,4.0,1,Email,Afternoon,English,Retirement,5
+C100178,75,Male,Divorced,ON,Hamilton,Driver,35157.0,753,Home,2022-01-16,2026-08-23,4.6,1842.91,517000.0,1500,-4.6,Annual,No,0,2,Approved,1,6,7.0,1,Email,Morning,English,None,13
+C100179,50,Male,Single,QC,Laval,Student,168455.0,673,Auto+Home Bundle,2023-05-09,2026-10-01,3.4,3681.94,1658000.0,2000,8.0,Monthly,Yes,0,0,None,0,4,6.0,2,Mail,Evening,English,Marriage,8
+C100180,78,Female,Single,AB,Red Deer,Construction Worker,59926.0,635,Auto,2015-08-13,2026-09-18,11.1,3292.44,663000.0,1000,18.3,Annual,No,0,3,Approved,0,0,7.0,1,Email,Morning,French,Divorce,6
+C100181,28,Female,Single,QC,Gatineau,IT Professional,90925.0,838,Home,2025-01-06,2026-09-18,1.7,1189.44,942000.0,500,-1.3,Annual,No,0,0,None,0,3,9.0,2,Email,Afternoon,French,Marriage,5
+C100182,50,Male,Single,AB,Edmonton,Manager,67938.0,604,Auto+Home Bundle,2021-11-24,2027-03-13,5.3,2710.07,990000.0,250,-2.3,Monthly,No,4,0,None,0,4,8.0,2,Phone,Morning,English,New Child,11
+C100183,62,Male,Single,ON,Kitchener,Engineer,98863.0,690,Auto+Home Bundle,2024-04-09,2026-07-28,2.3,2555.77,1144000.0,1500,11.0,Annual,No,0,0,None,0,3,10.0,1,Mail,Afternoon,English,None,15
+C100184,50,Female,Single,AB,Red Deer,Technician,100613.0,832,Home,2026-01-26,2027-05-15,1.3,2439.8,814000.0,1000,-3.3,Annual,No,0,0,None,0,0,7.0,3,Phone,Evening,English,Retirement,11
+C100185,47,Male,Single,QC,Quebec City,Construction Worker,29398.0,712,Auto+Home Bundle,2016-03-31,2027-05-07,11.1,4029.27,2134000.0,500,11.6,Annual,No,0,0,None,0,3,6.0,3,Mail,Evening,French,None,6
+C100186,29,Male,Single,ON,Mississauga,Government Employee,65613.0,754,Auto,2017-08-01,2027-04-13,9.7,1281.11,1310000.0,500,16.1,Monthly,Yes,0,1,Partial,0,1,6.0,1,Email,Afternoon,English,None,8
+C100187,43,Male,Married,AB,Red Deer,Technician,69995.0,607,Life,2024-12-30,2027-07-01,2.5,630.18,466000.0,500,-0.3,Monthly,Yes,4,1,Approved,0,3,8.0,1,Text,Evening,English,Marriage,9
+C100188,34,Female,Single,BC,Surrey,Manager,85245.0,842,Auto,2024-05-15,2026-10-08,2.4,1582.12,1275000.0,2000,0.4,Monthly,No,0,0,None,1,1,6.0,2,Text,Morning,English,Job Change,7
+C100189,37,Female,Married,ON,Kitchener,IT Professional,52769.0,691,Auto,2026-04-04,2026-07-22,0.3,3268.91,1292000.0,1000,6.5,Annual,Yes,0,0,None,0,5,9.0,1,Email,Afternoon,English,Job Change,10
+C100190,62,Male,Divorced,AB,Calgary,IT Professional,77768.0,762,Auto,2011-10-25,2027-01-05,15.2,2952.93,182000.0,500,7.1,Monthly,No,0,0,None,0,0,8.0,2,Text,Afternoon,English,None,11
+C100191,58,Female,Married,NB,Saint John,Construction Worker,53981.0,741,Tenant,2017-12-21,2027-03-04,9.2,600.14,96000.0,250,1.9,Annual,No,1,0,None,0,3,10.0,2,Email,Afternoon,English,None,9
+C100192,57,Female,Single,BC,Surrey,Teacher,43668.0,727,Auto+Home Bundle,2024-11-22,2027-05-24,2.5,3255.87,2063000.0,1000,14.1,Monthly,No,0,0,None,0,3,8.0,1,Phone,Afternoon,French,None,13
+C100193,41,Female,Divorced,AB,Edmonton,Retail Associate,57533.0,597,Tenant,2024-05-23,2026-09-10,2.3,586.91,80000.0,250,13.2,Annual,Yes,0,2,Approved,1,3,10.0,2,Phone,Evening,English,Divorce,5
+C100194,79,Male,Married,MB,Brandon,Retired,42718.0,707,Home,2026-07-13,2027-03-25,0.7,919.8,329000.0,500,15.2,Monthly,Yes,1,1,Denied,0,1,7.0,1,Text,Evening,English,None,13
+C100195,24,Male,Single,NB,Moncton,Student,103409.0,587,Home,2026-07-06,2027-04-24,0.8,1892.39,1479000.0,1000,6.3,Annual,Yes,0,1,Approved,2,1,8.0,1,Mail,Evening,English,Divorce,7
+C100196,40,Female,Married,ON,Mississauga,IT Professional,64900.0,639,Auto,2026-03-15,2026-11-25,0.7,1449.53,1782000.0,500,7.7,Monthly,No,0,0,None,0,3,8.0,1,Email,Afternoon,English,None,9
+C100197,26,Male,Single,QC,Gatineau,Retired,44701.0,776,Tenant,2024-06-08,2026-08-20,2.2,595.1,84000.0,1000,11.9,Annual,No,0,1,Approved,0,4,8.0,1,Email,Morning,English,None,10
+C100198,40,Female,Married,QC,Laval,Retired,65098.0,650,Home,2025-06-28,2026-08-03,1.1,2563.96,524000.0,250,0.6,Monthly,No,0,0,None,2,4,6.0,1,Phone,Afternoon,French,Retirement,11
+C100199,79,Female,Married,BC,Kelowna,Sales Representative,67782.0,792,Tenant,2016-03-10,2026-11-21,10.7,378.5,45000.0,500,6.7,Monthly,No,0,0,None,1,5,8.0,1,Phone,Morning,English,None,10
+C100200,42,Female,Married,BC,Vancouver,Sales Representative,41391.0,682,Life,2014-03-08,2026-11-18,12.7,1201.18,122000.0,500,11.9,Monthly,No,0,0,None,0,2,8.0,1,Text,Evening,French,Divorce,10
+C100201,76,Female,Married,QC,Gatineau,Manager,95532.0,684,Auto+Home Bundle,2025-05-30,2027-03-18,1.8,3178.32,1353000.0,500,19.7,Monthly,Yes,0,4,Partial,0,4,9.0,3,Email,Evening,French,None,7
+C100202,50,Male,Married,SK,Regina,Government Employee,62710.0,616,Home,2017-02-06,2027-05-27,10.3,1753.69,761000.0,1000,16.2,Monthly,No,3,1,Approved,0,1,7.0,1,Email,Afternoon,English,None,9
+C100203,63,Male,Single,SK,Regina,Student,81434.0,823,Auto+Home Bundle,2022-06-14,2027-02-24,4.7,2959.68,1152000.0,1000,3.7,Annual,No,0,1,Partial,0,3,6.0,2,Email,Evening,English,Home Purchase,10
+C100204,47,Male,Married,ON,London,Technician,56746.0,754,Auto+Home Bundle,2024-07-03,2026-10-21,2.3,4230.87,1482000.0,1000,6.5,Monthly,No,0,0,None,0,1,7.0,1,Email,Evening,English,Divorce,7
+C100205,35,Male,Married,QC,Quebec City,Technician,45353.0,661,Auto+Home Bundle,2026-06-30,2026-11-23,0.4,2081.96,2283000.0,1000,6.9,Monthly,No,0,2,Approved,0,4,6.0,3,Text,Evening,French,Divorce,7
+C100206,67,Female,Married,ON,Hamilton,Student,41246.0,678,Auto+Home Bundle,2023-11-12,2027-05-13,3.5,3458.99,1887000.0,1000,2.1,Monthly,No,3,0,None,0,2,10.0,2,Email,Afternoon,English,None,13
+C100207,80,Male,Married,QC,Laval,Accountant,95672.0,532,Auto,2013-11-14,2026-09-02,12.8,1945.45,158000.0,2000,10.2,Monthly,Yes,0,3,Partial,0,2,6.0,2,Text,Afternoon,French,None,9
+C100208,35,Male,Married,MB,Winnipeg,Sales Representative,99202.0,686,Auto,2023-11-30,2026-07-06,2.6,3337.31,1029000.0,1500,-3.4,Annual,No,0,0,None,2,0,8.0,1,Phone,Evening,English,None,13
+C100209,68,Male,Divorced,BC,Victoria,Government Employee,49284.0,819,Auto+Home Bundle,2017-07-01,2027-05-25,9.9,4209.4,779000.0,500,8.9,Monthly,Yes,0,2,Approved,2,1,7.0,3,Email,Evening,English,None,13
+C100210,35,Male,Single,ON,Toronto,Construction Worker,48094.0,676,Auto,2024-06-19,2027-01-24,2.6,2786.18,1742000.0,2000,9.1,Monthly,No,0,2,Partial,0,1,8.0,1,Text,Afternoon,English,Divorce,9
+C100211,64,Female,Widowed,SK,Saskatoon,Retired,34746.0,745,Auto+Home Bundle,2027-02-05,2027-07-01,0.4,2083.39,2059000.0,2000,5.8,Monthly,Yes,4,1,Approved,0,1,8.0,3,Email,Afternoon,English,New Child,7
+C100212,68,Male,Single,AB,Calgary,Driver,96862.0,766,Auto,2025-11-30,2026-08-12,0.7,2431.01,113000.0,500,1.8,Monthly,Yes,1,0,None,0,2,6.0,1,Text,Afternoon,English,None,6
+C100213,47,Female,Married,MB,Winnipeg,Sales Representative,79733.0,719,Auto,2021-07-30,2027-04-11,5.7,1355.03,139000.0,250,11.8,Monthly,Yes,0,4,Approved,1,4,7.0,1,Text,Evening,English,New Child,11
+C100214,65,Male,Married,BC,Victoria,Retail Associate,41389.0,742,Home,2022-08-12,2027-04-24,4.7,2434.53,1062000.0,1000,11.7,Monthly,Yes,0,0,None,0,2,8.0,1,Email,Afternoon,English,Job Change,11
+C100215,36,Female,Married,ON,Hamilton,Manager,159676.0,795,Auto,2023-04-28,2026-07-09,3.2,2853.24,636000.0,1500,10.1,Monthly,Yes,0,1,Approved,2,2,9.0,2,Phone,Evening,English,Retirement,10
+C100216,23,Female,Married,QC,Montreal,Government Employee,80939.0,550,Auto,2024-09-29,2027-05-06,2.6,2660.97,1088000.0,1000,-3.6,Annual,No,0,1,Partial,0,2,9.0,2,Email,Evening,English,Home Purchase,5
+C100217,25,Male,Married,QC,Quebec City,Driver,54913.0,863,Auto,2026-10-02,2027-06-14,0.7,2340.96,1122000.0,1000,4.0,Monthly,Yes,0,0,None,3,3,8.0,2,Text,Evening,French,None,6
+C100218,47,Female,Married,NS,Halifax,IT Professional,93015.0,715,Home,2016-09-28,2026-07-17,9.8,1058.76,1177000.0,2000,10.1,Monthly,Yes,0,0,None,0,2,8.0,1,Phone,Afternoon,English,Divorce,5
+C100219,75,Male,Divorced,AB,Calgary,Technician,62150.0,686,Auto+Home Bundle,2022-08-28,2026-07-22,3.9,2116.53,816000.0,500,1.5,Monthly,Yes,0,0,None,0,1,5.0,1,Phone,Evening,English,Divorce,9
+C100220,27,Female,Single,ON,Ottawa,Engineer,36527.0,712,Auto,2023-03-04,2027-05-16,4.2,3528.18,1097000.0,500,1.2,Monthly,Yes,0,0,None,1,1,8.0,1,Email,Afternoon,English,New Child,3
+C100221,47,Female,Married,AB,Red Deer,Government Employee,45189.0,649,Auto+Home Bundle,2026-06-02,2026-10-26,0.4,4107.37,1420000.0,1000,-1.3,Monthly,Yes,4,2,Approved,2,1,5.0,1,Email,Evening,English,Marriage,7
+C100222,63,Male,Married,ON,Ottawa,IT Professional,70318.0,816,Life,2023-11-19,2027-04-13,3.4,1987.78,940000.0,1500,2.2,Monthly,Yes,0,1,Approved,0,3,8.0,1,Email,Evening,English,None,14
+C100223,31,Male,Married,ON,Ottawa,Government Employee,69247.0,757,Auto,2022-05-12,2026-10-05,4.4,3063.36,1396000.0,500,8.7,Annual,Yes,0,0,None,0,1,7.0,1,Email,Afternoon,English,Retirement,6
+C100224,64,Female,Single,SK,Regina,Self-Employed,58486.0,723,Auto+Home Bundle,2022-11-19,2026-10-13,3.9,2268.2,1036000.0,500,7.6,Monthly,Yes,0,1,Approved,0,2,10.0,1,Email,Morning,English,None,11
+C100225,38,Female,Single,ON,Toronto,IT Professional,102427.0,748,Home,2023-12-23,2026-11-16,2.9,1755.45,829000.0,500,-0.1,Annual,No,0,1,Partial,1,4,9.0,2,Phone,Evening,French,Marriage,5
+C100226,69,Female,Single,ON,Ottawa,Driver,37553.0,623,Tenant,2023-07-16,2027-02-19,3.6,316.94,97000.0,1500,-5.3,Monthly,No,0,0,None,0,1,6.0,1,Email,Afternoon,English,None,7
+C100227,55,Female,Married,QC,Laval,Engineer,61884.0,629,Auto,2021-01-08,2026-07-09,5.5,3040.04,1307000.0,1500,6.8,Monthly,Yes,1,0,None,0,0,7.0,1,Text,Evening,French,New Child,5
+C100228,53,Male,Married,QC,Gatineau,Teacher,55245.0,723,Home,2026-10-11,2027-01-28,0.3,2026.65,852000.0,500,16.9,Monthly,Yes,0,0,None,0,2,8.0,2,Phone,Morning,English,None,9
+C100229,30,Male,Single,SK,Saskatoon,Accountant,113341.0,796,Life,2023-01-07,2027-03-21,4.2,1646.04,103000.0,500,1.5,Annual,Yes,0,0,None,0,2,7.0,1,Text,Afternoon,English,Home Purchase,8
+C100230,48,Female,Married,BC,Surrey,Sales Representative,51764.0,638,Auto,2025-12-26,2026-10-14,0.8,2473.94,1259000.0,1000,4.7,Monthly,No,0,1,Approved,1,0,7.0,2,Email,Evening,English,None,9
+C100231,72,Male,Single,QC,Quebec City,Technician,92108.0,695,Tenant,2022-12-11,2026-11-04,3.9,266.18,73000.0,500,25.8,Monthly,No,0,2,Approved,0,1,9.0,1,Text,Evening,French,New Child,9
+C100232,20,Female,Divorced,BC,Kelowna,Retail Associate,127928.0,719,Auto+Home Bundle,2017-10-24,2026-08-12,8.8,3348.94,1391000.0,250,10.3,Monthly,No,0,1,Approved,0,4,9.0,1,Text,Evening,French,Retirement,8
+C100233,66,Male,Married,ON,Ottawa,Teacher,71655.0,771,Auto,2026-08-25,2026-12-12,0.3,1360.36,1055000.0,500,6.3,Monthly,Yes,0,0,None,0,4,6.0,1,Phone,Afternoon,English,Retirement,11
+C100234,50,Female,Single,QC,Quebec City,Accountant,95321.0,721,Auto,2024-11-09,2027-02-27,2.3,3566.96,1989000.0,500,9.9,Monthly,Yes,0,0,None,1,5,6.0,1,Mail,Afternoon,French,None,8
+C100235,64,Female,Single,BC,Kelowna,Teacher,94975.0,757,Auto+Home Bundle,2022-12-20,2027-03-03,4.2,3317.5,2498000.0,500,2.2,Annual,Yes,0,0,None,0,0,7.0,1,Email,Morning,English,New Child,7
+C100236,60,Male,Divorced,AB,Edmonton,Retired,98091.0,781,Auto,2025-10-17,2026-10-17,1.0,1313.29,953000.0,500,7.4,Monthly,Yes,0,3,Partial,0,2,6.0,1,Text,Morning,English,Marriage,7
+C100237,46,Male,Married,ON,Mississauga,Student,42748.0,787,Auto+Home Bundle,2024-12-21,2026-11-14,1.9,2360.92,1308000.0,500,9.2,Monthly,Yes,0,4,Approved,0,1,10.0,1,Email,Afternoon,English,None,9
+C100238,38,Female,Married,ON,Brampton,Teacher,69805.0,737,Home,2025-02-13,2027-02-13,2.0,2230.67,1489000.0,1000,8.8,Annual,No,2,0,None,0,5,5.0,1,Email,Evening,English,Retirement,10
+C100239,58,Male,Married,ON,Toronto,Teacher,40908.0,615,Home,2026-11-15,2027-04-10,0.4,1566.04,888000.0,1000,3.0,Monthly,No,0,0,None,0,2,6.0,2,Mail,Afternoon,French,New Child,12
+C100240,27,Male,Married,MB,Brandon,Teacher,107209.0,766,Auto,2025-12-06,2026-07-13,0.6,1630.09,698000.0,2000,6.8,Annual,No,0,0,None,0,4,7.0,3,Mail,Morning,English,None,8
+C100241,55,Male,Divorced,QC,Laval,Technician,30836.0,704,Home,2020-12-09,2027-06-10,6.5,2217.7,315000.0,1000,8.7,Annual,Yes,0,1,Partial,0,3,4.0,2,Email,Morning,French,Job Change,10
+C100242,24,Female,Divorced,NS,Halifax,Nurse,83391.0,792,Auto,2025-08-30,2026-08-30,1.0,3086.17,915000.0,2000,9.8,Monthly,No,0,0,None,0,6,8.0,2,Phone,Evening,English,None,8
+C100243,59,Female,Single,AB,Calgary,Sales Representative,62856.0,797,Auto,2020-03-07,2027-05-19,7.2,2854.99,415000.0,1000,5.8,Monthly,Yes,0,0,None,0,1,8.0,2,Phone,Afternoon,English,None,8
+C100244,58,Female,Married,MB,Winnipeg,Engineer,57077.0,679,Tenant,2023-04-26,2027-03-20,3.9,409.67,24000.0,1500,6.7,Annual,Yes,0,0,None,0,1,7.0,2,Phone,Morning,English,New Child,12
+C100245,24,Female,Divorced,AB,Red Deer,Construction Worker,29551.0,573,Auto,2025-08-15,2026-08-15,1.0,1304.59,184000.0,1000,10.9,Annual,No,0,0,None,3,2,4.0,1,Email,Afternoon,English,Home Purchase,10
+C100246,66,Female,Single,ON,Kitchener,Self-Employed,63938.0,760,Auto,2025-12-17,2027-01-22,1.1,1358.74,618000.0,1000,2.5,Monthly,Yes,0,0,None,0,3,6.0,3,Text,Afternoon,English,None,9
+C100247,45,Female,Divorced,ON,London,Manager,35908.0,723,Auto+Home Bundle,2022-04-11,2027-04-11,5.0,2073.69,2255000.0,1000,3.1,Annual,Yes,0,2,Approved,0,2,7.0,1,Email,Evening,English,Marriage,4
+C100248,26,Male,Married,QC,Montreal,Retail Associate,54071.0,595,Home,2026-08-22,2027-06-10,0.8,1883.94,784000.0,2000,1.0,Monthly,Yes,1,0,None,0,2,6.0,3,Phone,Afternoon,French,None,8
+C100249,50,Female,Divorced,SK,Saskatoon,Teacher,89615.0,741,Home,2025-04-15,2027-06-27,2.2,2167.16,1206000.0,1500,-5.0,Monthly,Yes,1,0,None,0,2,7.0,1,Mail,Afternoon,English,Home Purchase,10
+C100250,30,Female,Widowed,QC,Gatineau,Teacher,67853.0,618,Life,2025-08-17,2026-10-29,1.2,803.88,775000.0,1000,10.8,Monthly,Yes,1,0,None,0,4,9.0,2,Email,Evening,French,New Child,4
+C100251,50,Male,Married,ON,London,Teacher,55905.0,653,Tenant,2022-01-08,2027-02-13,5.1,530.43,92000.0,1000,-1.6,Monthly,Yes,0,1,Approved,0,1,10.0,1,Text,Afternoon,English,None,9
+C100252,30,Male,Single,NS,Sydney,Construction Worker,38686.0,702,Life,2024-11-03,2027-01-15,2.2,663.79,906000.0,500,-4.3,Monthly,Yes,0,0,None,0,1,6.0,1,Email,Morning,English,Home Purchase,9
+C100253,39,Male,Married,QC,Gatineau,Self-Employed,60348.0,683,Home,2026-05-13,2026-08-30,0.3,2321.95,1264000.0,500,3.3,Monthly,Yes,0,0,None,0,2,6.0,1,Phone,Afternoon,French,Retirement,6
+C100254,60,Male,Married,BC,Vancouver,Manager,135828.0,756,Auto,2026-06-13,2026-09-30,0.3,3234.56,1554000.0,1500,8.5,Monthly,Yes,0,1,Partial,0,4,,2,Email,Afternoon,English,Home Purchase,8
+C100255,28,Male,Married,QC,Gatineau,Nurse,46763.0,628,Home,2024-03-14,2026-11-25,2.7,2521.27,1324000.0,500,21.3,Monthly,No,0,1,Partial,0,4,10.0,2,Text,Afternoon,French,None,13
+C100256,61,Female,Single,SK,Regina,Accountant,63514.0,757,Tenant,2011-12-02,2027-01-07,15.1,476.49,23000.0,250,3.6,Monthly,No,0,1,Partial,0,1,9.0,1,Mail,Afternoon,English,None,8
+C100257,25,Female,Married,AB,Edmonton,Retail Associate,99886.0,621,Home,2023-06-01,2027-02-11,3.7,2287.11,828000.0,2000,6.9,Monthly,No,0,0,None,0,2,6.0,2,Email,Morning,English,Job Change,13
+C100258,30,Male,Divorced,AB,Red Deer,Manager,74980.0,761,Life,2026-09-17,2027-02-10,0.4,1821.1,201000.0,1000,-4.4,Monthly,No,2,0,None,0,4,7.0,3,Email,Evening,English,Retirement,7
+C100259,56,Female,Married,ON,Kitchener,Accountant,59971.0,638,Auto+Home Bundle,2024-11-17,2027-04-12,2.4,2001.83,1380000.0,500,-2.4,Monthly,Yes,2,2,Approved,0,1,9.0,1,Text,Morning,English,None,9
+C100260,68,Female,Single,ON,Hamilton,Construction Worker,27785.0,832,Tenant,2025-04-11,2026-12-22,1.7,348.75,61000.0,1000,5.9,Monthly,Yes,0,0,None,0,2,8.0,2,Phone,Afternoon,English,Retirement,12
+C100261,29,Male,Widowed,ON,Brampton,Construction Worker,48703.0,551,Auto+Home Bundle,2010-02-18,2026-10-31,16.7,4079.37,810000.0,1000,-8.0,Monthly,No,0,0,None,0,1,2.0,2,Mail,Evening,English,Job Change,8
+C100262,37,Male,Single,ON,Mississauga,Sales Representative,67946.0,633,Home,2025-02-24,2027-02-24,2.0,2382.59,988000.0,1500,13.6,Annual,Yes,0,0,None,0,3,8.0,2,Email,Afternoon,English,Job Change,7
+C100263,77,Female,Married,MB,Winnipeg,Government Employee,64370.0,809,Auto,2021-11-30,2026-11-30,5.0,2023.92,656000.0,250,4.8,Monthly,Yes,0,0,None,1,1,6.0,3,Email,Morning,English,None,10
+C100264,81,Female,Married,QC,Quebec City,Government Employee,82983.0,708,Tenant,2026-02-02,2026-11-21,0.8,383.32,25000.0,1500,10.5,Monthly,Yes,0,0,None,0,3,10.0,1,Phone,Morning,French,Job Change,9
+C100265,55,Male,Widowed,BC,Vancouver,Accountant,27819.0,742,Auto+Home Bundle,2026-04-13,2027-03-07,0.9,3516.08,1802000.0,1000,-1.5,Monthly,Yes,0,0,None,0,4,7.0,1,Email,Afternoon,English,Retirement,5
+C100266,47,Female,Divorced,ON,Ottawa,IT Professional,32473.0,671,Tenant,2023-03-21,2027-04-26,4.1,472.14,35000.0,1500,10.4,Monthly,Yes,0,0,None,0,3,7.0,2,Text,Afternoon,English,Home Purchase,7
+C100267,40,Female,Divorced,NB,Saint John,Retail Associate,74235.0,542,Auto,2023-01-03,2027-01-03,4.0,3140.76,938000.0,1500,2.3,Monthly,Yes,0,2,Approved,0,1,7.0,3,Text,Morning,English,None,7
+C100268,57,Female,Single,NS,Halifax,Retired,34066.0,809,Home,2022-04-13,2026-11-18,4.6,1756.31,1099000.0,500,6.5,Monthly,No,1,1,Partial,0,1,8.0,2,Email,Evening,English,Marriage,3
+C100269,56,Female,Married,QC,Laval,Sales Representative,40987.0,638,Home,2023-08-13,2027-04-25,3.7,1910.33,1413000.0,500,-0.2,Annual,Yes,0,0,None,0,2,7.0,1,Email,Evening,French,Marriage,12
+C100270,37,Male,Married,SK,Regina,Nurse,54945.0,713,Auto,2025-08-08,2026-07-02,0.9,1666.7,556000.0,1500,15.7,Monthly,Yes,1,0,None,0,0,7.0,1,Text,Afternoon,English,None,12
+C100271,20,Female,Married,AB,Red Deer,Student,65129.0,568,Auto+Home Bundle,2020-07-31,2027-03-07,6.6,3307.43,1172000.0,1500,4.3,Annual,No,4,0,None,0,5,7.0,1,Email,Afternoon,English,New Child,18
+C100272,28,Male,Divorced,ON,Kitchener,Nurse,76050.0,767,Auto+Home Bundle,2023-07-29,2027-06-22,3.9,2141.49,1638000.0,250,1.0,Annual,No,0,3,Approved,0,0,10.0,1,Phone,Afternoon,English,Home Purchase,11
+C100273,79,Female,Married,NS,Sydney,Manager,228060.0,730,Auto,2020-08-26,2026-10-02,6.1,2423.85,1020000.0,500,6.8,Monthly,No,2,0,None,0,3,5.0,1,Email,Morning,English,New Child,13
+C100274,45,Female,Married,ON,Mississauga,Manager,80367.0,713,Home,2020-03-29,2026-07-17,6.3,1124.77,562000.0,500,-4.4,Monthly,Yes,0,0,None,0,2,8.0,1,Phone,Afternoon,English,Retirement,12
+C100275,49,Female,Single,ON,Toronto,Nurse,65431.0,666,Tenant,2014-07-12,2026-10-29,12.3,609.74,37000.0,500,4.9,Monthly,No,2,0,None,0,0,5.0,2,Text,Afternoon,English,None,9
+C100276,48,Female,Married,NB,Moncton,Government Employee,55930.0,673,Home,2023-02-16,2026-09-22,3.6,1637.23,1355000.0,1000,18.9,Monthly,No,0,1,Approved,0,0,8.0,2,Phone,Afternoon,French,None,5
+C100277,68,Female,Single,ON,London,Sales Representative,110644.0,900,Auto,2016-11-26,2027-03-16,10.3,1918.76,469000.0,500,3.2,Monthly,No,0,1,Partial,0,2,,2,Email,Afternoon,English,None,6
+C100278,23,Female,Single,BC,Victoria,Teacher,,687,Tenant,2020-06-25,2027-03-08,6.7,459.63,23000.0,2000,-4.5,Monthly,No,0,1,Approved,0,3,6.0,1,Email,Afternoon,English,None,12
+C100279,24,Female,Widowed,NS,Halifax,Self-Employed,48161.0,735,Life,2023-06-17,2027-01-21,3.6,2373.06,237000.0,250,22.4,Monthly,Yes,0,1,Approved,0,4,7.0,2,Text,Morning,English,Retirement,7
+C100280,36,Female,Married,NB,Moncton,Technician,52673.0,649,Tenant,2026-06-18,2026-10-05,0.3,405.85,87000.0,250,3.9,Monthly,Yes,1,2,Approved,2,3,4.0,2,Mail,Morning,English,Job Change,8
+C100281,49,Male,Single,MB,Brandon,Self-Employed,64849.0,772,Home,2026-01-13,2027-03-27,1.2,1652.59,1302000.0,500,5.6,Annual,Yes,1,0,None,0,1,6.0,1,Phone,Morning,English,None,14
+C100282,61,Male,Married,SK,Regina,Retired,63413.0,666,Auto,2026-11-19,2027-05-20,0.5,1391.27,260000.0,2000,13.3,Monthly,No,0,0,None,0,1,8.0,1,Email,Evening,English,None,9
+C100283,49,Male,Single,QC,Gatineau,Teacher,57383.0,742,Tenant,2025-10-10,2027-05-17,1.6,516.8,48000.0,1000,9.9,Monthly,No,0,0,None,0,3,,1,Phone,Afternoon,French,Retirement,7
+C100284,46,Female,Single,NS,Halifax,Engineer,68034.0,747,Tenant,2026-03-20,2026-11-30,0.7,345.41,73000.0,500,12.7,Annual,No,0,0,None,0,3,7.0,1,Mail,Morning,English,None,8
+C100285,78,Female,Married,ON,Hamilton,Sales Representative,88460.0,769,Home,2019-11-07,2026-08-25,6.8,2407.1,1351000.0,1500,7.7,Monthly,No,1,1,Partial,0,3,10.0,2,Mail,Evening,English,None,8
+C100286,29,Male,Single,ON,Kitchener,Student,33083.0,841,Home,2023-02-11,2027-03-19,4.1,912.32,517000.0,500,9.6,Monthly,Yes,0,0,None,0,1,7.0,1,Email,Afternoon,English,None,5
+C100287,55,Female,Single,ON,Ottawa,Driver,103153.0,792,Auto+Home Bundle,2024-09-19,2027-06-02,2.7,2319.19,1268000.0,1000,4.3,Annual,Yes,0,0,None,0,3,5.0,2,Email,Morning,English,None,17
+C100288,53,Male,Single,BC,Surrey,IT Professional,30202.0,697,Auto,2021-03-03,2026-12-20,5.8,1602.5,1714000.0,1000,-0.5,Annual,No,0,0,None,0,0,10.0,1,Mail,Evening,English,None,12
+C100289,48,Female,Married,ON,Mississauga,Nurse,39413.0,694,Auto,2020-09-21,2027-02-14,6.4,3256.24,275000.0,500,-6.2,Monthly,No,0,0,None,0,1,6.0,3,Email,Afternoon,English,New Child,9
+C100290,69,Female,Single,ON,Brampton,Engineer,65361.0,760,Home,2026-05-02,2027-01-12,0.7,1913.51,640000.0,1500,1.2,Annual,No,0,1,Partial,0,5,5.0,1,Email,Afternoon,English,None,12
+C100291,35,Male,Married,QC,Montreal,Accountant,52820.0,728,Auto,2020-07-01,2027-02-05,6.6,2579.97,1456000.0,500,0.4,Monthly,Yes,0,2,Denied,0,3,6.0,1,Email,Morning,French,None,10
+C100292,79,Male,Divorced,ON,Hamilton,Manager,80949.0,632,Home,2026-07-17,2026-11-03,0.3,1270.51,1045000.0,2000,0.6,Annual,No,0,1,Approved,0,3,7.0,2,Email,Morning,English,New Child,8
+C100293,39,Male,Married,ON,London,Self-Employed,115874.0,713,Home,2027-01-06,2027-04-25,0.3,976.33,646000.0,2000,1.2,Annual,No,2,0,None,0,2,5.0,1,Text,Evening,English,Job Change,9
+C100294,53,Male,Single,ON,Kitchener,Driver,32614.0,727,Home,2024-08-02,2027-03-09,2.6,1301.86,403000.0,250,5.7,Monthly,No,0,2,Approved,0,3,6.0,2,Email,Afternoon,English,New Child,10
+C100295,51,Male,Divorced,ON,Toronto,Student,54060.0,812,Auto+Home Bundle,2026-08-06,2026-11-23,0.3,2355.78,2430000.0,1500,9.6,Monthly,Yes,0,0,None,1,2,4.0,1,Mail,Morning,English,None,9
+C100296,72,Male,Married,ON,London,Driver,24000.0,764,Auto,2025-12-06,2026-10-30,0.9,1740.28,1618000.0,1500,-8.0,Annual,Yes,0,1,Approved,2,2,9.0,1,Mail,Afternoon,English,Marriage,12
+C100297,46,Female,Divorced,QC,Gatineau,Engineer,64158.0,707,Home,2026-03-30,2026-07-17,0.3,2010.8,382000.0,1000,10.2,Monthly,No,0,0,None,2,1,6.0,2,Text,Morning,French,None,6
+C100298,36,Female,Single,ON,Kitchener,Self-Employed,76266.0,747,Home,2023-11-07,2027-05-08,3.5,1783.39,1404000.0,1000,7.8,Monthly,No,1,1,Approved,0,2,8.0,2,Email,Afternoon,English,Home Purchase,8
+C100299,20,Male,Single,AB,Edmonton,Construction Worker,48854.0,836,Tenant,2024-11-02,2027-02-20,2.3,278.65,80000.0,250,-4.4,Annual,Yes,0,2,Approved,0,2,10.0,1,Email,Afternoon,English,Retirement,10
