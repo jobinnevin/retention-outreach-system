@@ -1,0 +1,6 @@
+customer_id,first_name,policy_type,annual_premium,days_until_renewal,preferred_channel,preferred_language,premium_change_pct
+C133709,Marie,Home,2496.84,76,Text,French,15.3
+C146584,David,Auto,1556.6,76,Text,English,16.5
+C146542,Sophie,Life,932.87,18,Email,French,15.2
+C116384,Luc,Auto+Home Bundle,2145.28,33,Email,French,12.8
+C127739,Sarah,Tenant,314.4,38,Text,English,12.6
