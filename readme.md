@@ -9,6 +9,8 @@ An end-to-end BSA project simulating a retention risk system for a Canadian P&C 
 - Drafts personalized, bilingual outreach messages for high-risk customers via the Claude API, routed through Power Automate
 - Requires human approval before any message is sent, no automated outreach goes out unreviewed
 
+The pipeline runs entirely in PostgreSQL as three sequential SQL scripts. Bronze holds unvalidated staging data exactly as loaded from source. Silver applies cleaning rules, deduplication, standardization, and quarantines invalid records into a separate exceptions table. Gold applies the risk scoring model and is the layer Power BI connects to.
+
 ## Tech stack
 PostgreSQL · Power BI · Power Automate Desktop · Claude API (Anthropic) · Python (data generation)
 
