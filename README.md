@@ -1,8 +1,10 @@
+
 # Insurance Customer Retention and Automated Outreach System (Canadian P&C Insurer)
 
 This project simulates a retention risk system for a Canadian insurance company. Customer data is cleaned and scored using SQL in PostgreSQL, shown in a Power BI dashboard, and used to draft personalized outreach messages through the Claude API, automated with Power Automate and reviewed by a person before anything gets sent.
 
-![Dashboard demo](automation/flow_demo.gif)
+<img width="986" height="548" alt="Retention_dashboard_gif-ezgif com-optimize" src="https://github.com/user-attachments/assets/3ddbb9a1-6197-4b0c-b494-508ce94921bc" />
+
 
 ## What it does
 - Cleans and scores 50,000 policyholder records using SQL in PostgreSQL
