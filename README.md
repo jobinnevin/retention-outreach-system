@@ -15,7 +15,7 @@ This project simulates a retention risk system for a Canadian insurance company.
 
 ## Automated outreach in action
 
-![Power Automate flow](automation/flow_demo.gif)
+<img width="1080" height="608" alt="demo-automate" src="https://github.com/user-attachments/assets/d77db962-db5c-4d84-a414-88a5ef3d03ea" />
 
 **Customers going in:**
 ![Outreach queue](automation/outreach_queue.png)
