@@ -1,6 +1,6 @@
-# Customer Retention and Automated Outreach System
+# Insurance Customer Retention and Automated Outreach System (Canadian P&C Insurer)
 
-An end-to-end BSA project simulating a retention risk system for a Canadian P&C insurer. Combines SQL-based data cleaning and risk scoring, a Power BI dashboard, and an AI-drafted, human-approved outreach workflow.
+This project simulates a retention risk system for a Canadian insurance company. Customer data is cleaned and scored using SQL in PostgreSQL, shown in a Power BI dashboard, and used to draft personalized outreach messages through the Claude API, automated with Power Automate and reviewed by a person before anything gets sent.
 
 ## What it does
 - Cleans and validates a 50,000-record policyholder book using a medallion architecture (bronze → silver → gold) in PostgreSQL
