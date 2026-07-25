@@ -22,7 +22,7 @@ This project simulates a retention risk system for a Canadian insurance company.
 ![Outreach queue](automation/outreach_queue.png)
 
 **Drafts coming out, awaiting approval:**
-![Outreach messages](automation/outreach_message .png)
+![Uploading outreach_message .png…]()
 
 ## Built with
 PostgreSQL · Python · SQL · Power BI · Power Automate · Claude API
